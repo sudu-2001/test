@@ -1,0 +1,10 @@
+
+#!/bin/bash
+
+server = ( "google.com" "mysql.d" )
+
+config_file="/home/sudarshan/mysql.d"
+
+for server in "$server[@]"; do
+
+	scp 

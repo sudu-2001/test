@@ -1,0 +1,6 @@
+2024-05-24 12:00:00 INFO Starting application
+2024-05-24 12:01:00 WARNING Low disk space
+2024-05-24 12:02:00 ERROR Unable to connect to database
+2024-05-24 12:03:00 INFO Application running
+2024-05-24 12:04:00 WARNING High memory usage
+2024-05-24 12:05:00 ERROR Unexpected shutdown
