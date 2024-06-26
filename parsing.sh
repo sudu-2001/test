@@ -34,7 +34,7 @@ do
 
 	esac
 
-done < "$logfile"
+xdone < "$logfile"
 
 echo "INFORMATION:$info"
 
